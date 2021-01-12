@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="P4DC" pattern="file[planet4-docker-compose]:*||file[planet4-docker-compose]:ci//*||file[planet4-docker-compose]:db//*||file[planet4-docker-compose]:defaultcontent//*||file[planet4-docker-compose]:dev-templates//*||file[planet4-docker-compose]:docs//*||file[planet4-docker-compose]:options//*||file[planet4-docker-compose]:persistence/*||file[planet4-docker-compose]:persistence/app/sites/*||file[planet4-docker-compose]:persistence/app/sites//*||file[planet4-docker-compose]:persistence/app/tasks//*||file[planet4-docker-compose]:persistence/app/tests//*||file[planet4-docker-compose]:persistence/app/pa11y//*||file[planet4-docker-compose]:persistence/app/scripts//*" />
+</component>

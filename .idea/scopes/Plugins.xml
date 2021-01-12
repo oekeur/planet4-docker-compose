@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Plugins" pattern="file[planet4-docker-compose]:persistence/app/public/wp-content/plugins/planet4-gpnl-plugin-gutenberg-blocks//*||file[planet4-docker-compose]:persistence/app/public/wp-content/plugins/planet4-plugin-gutenberg-blocks//*" />
+</component>

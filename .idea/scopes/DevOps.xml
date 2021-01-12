@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="DevOps" pattern="file[planet4-docker-compose]:persistence/app/sites/planet4-netherlands//*" />
+</component>

@@ -1,0 +1,9 @@
+NRO_REPO := https://github.com/greenpeace/planet4-netherlands.git
+NRO_THEME := planet4-child-theme-netherlands
+# optionally specify a branch, will default to "develop" otherwise
+#NRO_BRANCH := my-other-branch
+# by default it will test against your local docker-compose setup version
+# but you can optionally specify these variables to run the tests against
+# a deployed environment
+#NRO_APP_HOSTNAME := k8s.p4.greenpeace.org
+#NRO_APP_HOSTPATH := nl

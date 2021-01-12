@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app/public/wp-content/plugins/planet4-gpnl-plugin-gutenberg-blocks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app/public/wp-content/plugins/planet4-plugin-gutenberg-blocks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app/public/wp-content/plugins/planet4-plugin-gutenberg-blocks/assets/src/styles/styleguide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app/public/wp-content/themes/planet4-child-theme-netherlands" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app/public/wp-content/themes/planet4-master-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app/public/wp-content/themes/planet4-master-theme/assets/src/scss/styleguide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/persistence/app/sites/planet4-netherlands" vcs="Git" />
+  </component>
+</project>

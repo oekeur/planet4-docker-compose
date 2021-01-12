@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Themes" pattern="file[planet4-docker-compose]:persistence/app/public/wp-content/themes/planet4-child-theme-netherlands//*||file[planet4-docker-compose]:persistence/app/public/wp-content/themes/planet4-master-theme//*" />
+</component>
